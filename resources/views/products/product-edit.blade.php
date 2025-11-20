@@ -1,3 +1,3 @@
-<title>Product Editing</title>
-<h1>Product Editing</h1>
-<p>Formulario para editar un producto existente.</p>
+<h1>Edit Product</h1>
+
+<p>This is the EDIT view (Homework 5 says it won't be used now).</p>
